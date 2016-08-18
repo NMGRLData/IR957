@@ -1,0 +1,66 @@
+{
+    "aliquot": 17, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "H:7 Hbl single crystal", 
+    "commit": "da33cb55cbfafa50b7940f0df325f98ecc201b5f", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "65147", 
+    "increment": 0, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-284", 
+    "irradiation_level": "H", 
+    "irradiation_position": 7, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "Groundmass", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "IR957", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Ir957", 
+    "sample": "Zebin", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-08-18T13:12:21.366316", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "1e2257be-1ac8-422b-95c1-381a0b07ddf3"
+}
